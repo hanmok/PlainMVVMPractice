@@ -1,5 +1,5 @@
-Source 출처: https://www.youtube.com/watch?v=M58LqynqQHc&t=1283s
-
+출처: https://www.youtube.com/watch?v=M58LqynqQHc&t=1283s
+(영상의 중간부까지 RxSwift 가 구현된 곳이 없어서, 영상을 보면서 해당 부분을 남겨둠.) 
 
 # MVVM 종결(?)
 
