@@ -59,3 +59,4 @@
 4. ObservableObject 에서 Service에 어떻게 접근해야 하는가? 그래서 DI가 필요한 것이다.
 
 [![MVVM종결영상](http://img.youtube.com/vi/M58LqynqQHc/0.jpg)](https://youtu.be/M58LqynqQHc)
+# PlainMVVMPractice
