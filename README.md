@@ -1,3 +1,6 @@
+Source 출처: https://www.youtube.com/watch?v=M58LqynqQHc&t=1283s
+
+
 # MVVM 종결(?)
 
 ![change](doc/frontend_development.jpg)
